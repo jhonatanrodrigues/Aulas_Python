@@ -96,7 +96,7 @@ url1= f"https://miro.medium.com/v2/resize:fit:1048/1*RpaJjaK0hdtXjgR4oDYgTQ.jpeg
 altura = 50
 largura = 200
 
-print
+
 imagem(url1, altura, largura)
 
 janela.mainloop()
