@@ -203,7 +203,6 @@ atualizar_lista()
 
 # Executa a interface
 root.mainloop()
-print
 
 
 # Fechar a conexão com o banco de dados ao encerrar o programa
