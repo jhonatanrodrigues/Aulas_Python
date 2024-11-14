@@ -17,5 +17,3 @@ while True:
         print("Peso normal")
     else:
         print("Baixo Peso")
-
-        print
